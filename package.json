@@ -1,0 +1,23 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "- create a .gitignore file     -tell it to ignore:         -node_modules/         -.DS_Store         -*.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbusam/express-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norbusam/express-intro/issues"
+  },
+  "homepage": "https://github.com/norbusam/express-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
