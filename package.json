@@ -4,7 +4,8 @@
   "description": "- create a .gitignore file     -tell it to ignore:         -node_modules/         -.DS_Store         -*.log",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
